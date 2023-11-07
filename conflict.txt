@@ -1,2 +1,4 @@
 tekst omal valikul
-teine rida teksti
+kolmas rida teksti
+See on Kauri tehtud rida
+See ei ole neljas rida
