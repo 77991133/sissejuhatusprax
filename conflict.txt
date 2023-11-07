@@ -1,4 +1,6 @@
 tekst omal valikul
+teine rida teksti
 kolmas rida teksti
+Muutetud oma harus Agnes2
 See on Kauri tehtud rida
 See ei ole neljas rida
