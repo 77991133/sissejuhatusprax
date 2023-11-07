@@ -11,3 +11,17 @@ table {
     line-height: 200%;
     background-color: beige;
 }
+.col {
+    float: left;
+    margin: 2%;
+}
+.gallery {
+    margin: 2%;
+}
+iframe {
+    height: 400;
+}
+
+p {
+    text-align: center;
+}
