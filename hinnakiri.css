@@ -1,0 +1,13 @@
+table {
+    background-color: bisque;
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.TabeliAlapealkiri {
+    width: 100%;
+    line-height: 200%;
+    background-color: beige;
+}
